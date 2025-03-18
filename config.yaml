@@ -1,0 +1,5 @@
+model:
+  name: "Qwen/Qwen2.5-Coder-7B-Instruct"
+  device: "auto"
+summarization:
+  max_tokens: 150
